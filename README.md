@@ -1,4 +1,4 @@
-Title: Movie Recommendation System<br>
+# Title: Movie Recommendation System<br>
 Dataset : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Overview
@@ -7,14 +7,14 @@ This repository contains a Movie Recommendation System implemented using natural
 
 ## Files
 
-1.### Movie Recommender.ipynb: Jupyter Notebook containing the code for the Movie Recommendation System. It includes data preprocessing, feature extraction, and the recommendation algorithm.<br>
-2.### tmdb_5000_movies.csv: Dataset containing information about movies, including titles, overviews, genres, and keywords.<br>
-3.### tmdb_5000_credits.csv: Dataset containing credits information, including cast and crew details for each movie.<br>
-4.### movies.pkl: Pickle file containing preprocessed movie data, including features and tags used for recommendation.
+1.**Movie Recommender.ipynb:** Jupyter Notebook containing the code for the Movie Recommendation System. It includes data preprocessing, feature extraction, and the recommendation algorithm.<br>
+2.**tmdb_5000_movies.csv:** Dataset containing information about movies, including titles, overviews, genres, and keywords.<br>
+3.**tmdb_5000_credits.csv:** Dataset containing credits information, including cast and crew details for each movie.<br>
+4.**movies.pkl:** Pickle file containing preprocessed movie data, including features and tags used for recommendation.
 
 ## Usage
 
-1.Open the Jupyter Notebook **Movie Recommender.ipynb** to understand the implementation details.<br>
+1.Open the Jupyter Notebook `Movie Recommender.ipynb` to understand the implementation details.<br>
 2.Run the notebook to generate the movie recommendation model.<br>
 3.Use the `recommend(movie)` function to get movie recommendations based on a given input movie title.
 
@@ -45,8 +45,7 @@ The preprocessed movie data, along with the recommendation model, is saved in a 
 
 Feel free to explore and modify the code for your specific use case or dataset.
 
-### Note: Ensure that the required dependencies are installed before running the code.
+### Note: 
+Ensure that the required dependencies are installed before running the code.
 
 Happy movie recommending!
-
-Model Development [Movie Recommender.ipynb]
