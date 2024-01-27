@@ -31,7 +31,7 @@ ast<br>
 nltk<br>
 sklearn
 
-## Data Preprocessing<br><br>
+## Data Preprocessing
 The provided datasets (`tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`) are merged and cleaned to create a consolidated dataset. The relevant features, such as genres, keywords, cast, and crew, are extracted and processed for further analysis.
 
 ## Feature Extraction<br><br>
