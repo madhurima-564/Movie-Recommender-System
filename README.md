@@ -7,14 +7,14 @@ This repository contains a Movie Recommendation System implemented using natural
 
 ## Files
 
-1.**Movie Recommender.ipynb:** Jupyter Notebook containing the code for the Movie Recommendation System. It includes data preprocessing, feature extraction, and the recommendation algorithm.<br>
+1.**Movie Recommender.ipynb:** Google Colaboratory containing the code for the Movie Recommendation System. It includes data preprocessing, feature extraction, and the recommendation algorithm.<br>
 2.**tmdb_5000_movies.csv:** Dataset containing information about movies, including titles, overviews, genres, and keywords.<br>
 3.**tmdb_5000_credits.csv:** Dataset containing credits information, including cast and crew details for each movie.<br>
 4.**movies.pkl:** Pickle file containing preprocessed movie data, including features and tags used for recommendation.
 
 ## Usage
 
-1.Open the Jupyter Notebook `Movie Recommender.ipynb` to understand the implementation details.<br>
+1.Open the Google Colaboratory `Movie Recommender.ipynb` to understand the implementation details.<br>
 2.Run the notebook to generate the movie recommendation model.<br>
 3.Use the `recommend(movie)` function to get movie recommendations based on a given input movie title.
 
