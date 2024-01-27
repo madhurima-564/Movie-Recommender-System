@@ -39,3 +39,15 @@ Ensure that you have an active internet connection to fetch movie details and po
 Feel free to explore and customize the code for your specific requirements.
 
 **Happy movie exploring!**
+
+![Home](https://github.com/madhurima-564/Movie-Recommender-System/assets/87948004/65ad32ca-d729-4cde-8861-846206610c4e)
+
+![H1](https://github.com/madhurima-564/Movie-Recommender-System/assets/87948004/bd37b96b-9cb7-4955-8ce3-88368ca7e22e)
+
+![H2](https://github.com/madhurima-564/Movie-Recommender-System/assets/87948004/7a8d2c91-6ea1-4720-baa6-36afcba90505)
+
+![H4](https://github.com/madhurima-564/Movie-Recommender-System/assets/87948004/975de1cf-8bc1-4d02-839b-be9226035a77)
+
+![H5](https://github.com/madhurima-564/Movie-Recommender-System/assets/87948004/273c02da-75b8-418e-b32e-bf0d04eb33d5)
+
+![H6](https://github.com/madhurima-564/Movie-Recommender-System/assets/87948004/a80a5820-c0b9-4731-9970-f8866bbd4fe3)
