@@ -7,10 +7,10 @@ This repository contains a Movie Recommendation System implemented using natural
 
 ## Files
 
-1.**Movie Recommender.ipynb:** Jupyter Notebook containing the code for the Movie Recommendation System. It includes data preprocessing, feature extraction, and the recommendation algorithm.<br>
-2.**tmdb_5000_movies.csv:** Dataset containing information about movies, including titles, overviews, genres, and keywords.<br>
-3.**tmdb_5000_credits.csv:** Dataset containing credits information, including cast and crew details for each movie.<br>
-4.**movies.pkl:** Pickle file containing preprocessed movie data, including features and tags used for recommendation.
+1.### Movie Recommender.ipynb: Jupyter Notebook containing the code for the Movie Recommendation System. It includes data preprocessing, feature extraction, and the recommendation algorithm.<br>
+2.### tmdb_5000_movies.csv: Dataset containing information about movies, including titles, overviews, genres, and keywords.<br>
+3.### tmdb_5000_credits.csv: Dataset containing credits information, including cast and crew details for each movie.<br>
+4.### movies.pkl: Pickle file containing preprocessed movie data, including features and tags used for recommendation.
 
 ## Usage
 
@@ -34,18 +34,18 @@ sklearn
 ## Data Preprocessing
 The provided datasets (`tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`) are merged and cleaned to create a consolidated dataset. The relevant features, such as genres, keywords, cast, and crew, are extracted and processed for further analysis.
 
-## Feature Extraction<br><br>
+## Feature Extraction
 Text data, including overviews, genres, keywords, cast, and crew information, is processed and transformed into a feature vector using techniques such as stemming and vectorization.
 
-## Recommendation Algorithm<br><br>
+## Recommendation Algorithm
 The recommendation system uses cosine similarity to find movies with similar content. The `recommend(movie)` function takes a movie title as input and suggests a list of five movies that are closely related to the input movie.
 
-## Pickle File<br><br>
+## Pickle File
 The preprocessed movie data, along with the recommendation model, is saved in a pickle file (`movies.pkl`). This file can be used to load the processed data and make recommendations without rerunning the entire code.
 
 Feel free to explore and modify the code for your specific use case or dataset.
 
-**Note:** Ensure that the required dependencies are installed before running the code.
+### Note: Ensure that the required dependencies are installed before running the code.
 
 Happy movie recommending!
 
