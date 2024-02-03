@@ -80,6 +80,6 @@ Explore the magic of cinema with Cine Vista and discover your next favorite movi
 
 ---
 
-**[View Cine Vista on GitHub]()** 🌐
+**[View Cine Vista on GitHub](https://cine-vista.onrender.com/)** 🌐
 
 Happy movie recommending!
