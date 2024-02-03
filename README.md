@@ -47,5 +47,39 @@ Feel free to explore and modify the code for your specific use case or dataset.
 
 ### Note: 
 Ensure that the required dependencies are installed before running the code.
+# Cine Vista - Personalized Movie Recommendations
+
+Cine Vista is a Streamlit web application that provides personalized movie recommendations based on user preferences. The app utilizes a collaborative filtering algorithm to suggest movies similar to the one selected by the user. Powered by The Movie Database (TMDb) API, Cine Vista fetches movie details such as posters, genres, ratings, and overviews to offer a comprehensive view of the recommended films.
+
+## Features
+
+- **Movie Selection:** Users can either type the name of a movie or choose one from the dropdown menu.
+  
+- **Recommendation:** Upon clicking the "Recommend" button, Cine Vista displays the top 5 movie recommendations along with their posters, genres, ratings, and runtimes.
+
+- **Detailed Information:** Each recommendation includes an expandable section with a detailed movie overview, allowing users to explore more about the suggested films.
+
+## How to Run
+
+1. Clone the repository: `git clone https://github.com/your-username/Cine-Vista.git`
+2. Navigate to the project directory: `cd Cine-Vista`
+3. Install the required dependencies: `pip install -r requirements.txt`
+4. Run the Streamlit app: `streamlit run cine_vista.py`
+
+## Data Sources
+
+- Movie data is sourced from The Movie Database (TMDb) API.
+- Precomputed movie similarities and details are stored in pickled files (`movies_dict.pkl` and `sim.pkl`).
+
+## Acknowledgments
+
+- Cine Vista makes use of the Streamlit library for creating interactive web applications.
+- Movie information is fetched from The Movie Database (TMDb) API.
+
+Explore the magic of cinema with Cine Vista and discover your next favorite movie! 🍿🎬
+
+---
+
+**[View Cine Vista on GitHub]()** 🌐
 
 Happy movie recommending!
